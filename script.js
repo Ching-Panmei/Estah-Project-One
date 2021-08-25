@@ -42,4 +42,4 @@ counters.forEach( counter=> {
         }
     }
     updateCount();
-})
+}) 
